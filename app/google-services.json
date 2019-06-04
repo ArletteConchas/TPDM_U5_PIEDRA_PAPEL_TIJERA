@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "539102046167",
+    "firebase_url": "https://tpdm-p-p-t.firebaseio.com",
+    "project_id": "tpdm-p-p-t",
+    "storage_bucket": "tpdm-p-p-t.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539102046167:android:4ef7cdd843b71b95",
+        "android_client_info": {
+          "package_name": "com.example.tpdm_piedra_papel_tijera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539102046167-47hg39bo7no3aqlulqja036fci0n0d65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Y0kxPx76voRyTnrPt8ImkimWgVZhasM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539102046167-47hg39bo7no3aqlulqja036fci0n0d65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
